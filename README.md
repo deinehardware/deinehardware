@@ -14,6 +14,7 @@ Join my Discord connect with other IT professionals and tech enthusiasts.
     Documents - Documentation and project files for all my Blog posts.
     Container - My personal Docker Container creations
     Projects - All my other Forks and self Programmed Projects
+    3D-Printing - Firmware customization of 3D-Printer and some useful Models
 
 ### Support me
 
