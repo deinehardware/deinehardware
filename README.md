@@ -7,17 +7,17 @@ Since 2018, I’ll try to build my own HomeLab and try du educate people to buil
 
 ### Meet our Community
 
-Join my Discord connect with other IT professionals and tech enthusiasts.
+Join my [Discord](https://discord.gg/BzaEEJsaVq) connect with other IT professionals and tech enthusiasts.
 
 ### Resources on GitHub
 
-    Documents - Documentation and project files for all my Blog posts.
-    Container - My personal Docker Container creations
-    Projects - All my other Forks and self Programmed Projects
-    3D-Printing - Firmware customization of 3D-Printer and some useful Models
+ >[Documents](https://github.com/deinehardware/documents) - Documentation and project files for all my Blog posts <br>
+ >[Container](https://github.com/deinehardware/container) - My personal Docker Container creations <br>
+ >[Projects](https://github.com/deinehardware/projects) - All my other Forks and self Programmed Projects <br>
+ >[3D-Printing](https://github.com/deinehardware/3d-printing) - Firmware customization of 3D-Printer and some useful Models
 
 ### Support me
 
-Become a follower on Twitter to stay up to date. And help Us to get more people to get use to selfhosting.
+Become a follower on [Twitter](https://twitter.com/deinehardware) to stay up to date. And help Us to get more people to get use to selfhosting.
 
 Help me to create something that matters to people!
