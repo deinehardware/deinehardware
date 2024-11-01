@@ -1,9 +1,9 @@
 ### Hi, there! 👋
 
-I’m Isabella, a 21 years old tech enthusiast from Germany, and I love to inspire and educate people in IT. You can find me on Twitter, and Instagram.
+I’m Isabella, a 22 years old tech enthusiast from Germany, and I love to inspire and educate people in IT. You can find me on Twitter, and Instagram.
 On this Github Page you will find some Cool Projects and forks.
 
-Since 2018, I’ll try to build my own HomeLab and try du educate people to build there own and share my best practices.
+Since 2018, I’ll try to build my own HomeLab and try to educate people to build there own and share my best practices.
 
 ### Meet our Community
 
